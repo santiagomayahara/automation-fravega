@@ -1,4 +1,4 @@
-Stack:
+﻿Stack:
 - Java 1.8
 - Maven 3
 - Selenium 3.14.0
@@ -14,4 +14,7 @@ Ejecución:
 
 Aclaraciones:
 Se agrega parametrización para seleccion de categoria y/o subcategoria con el metodo acceder categoria, el cual aplica Method Overloading.
+
+Casos de prueba: https://docs.google.com/spreadsheets/d/1sNaJilc9xt0JTGlcjbJfxPMZ6zjYSuvLYH9kFm41liY/edit?usp=sharing
+
 
